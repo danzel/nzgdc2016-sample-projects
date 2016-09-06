@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="951.27545"
+     inkscape:cx="653.28045"
      inkscape:cy="566.02433"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,8 +69,8 @@
     <ellipse
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#33f656;stroke-width:40;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4142"
-       cx="400"
-       cy="785.21936"
+       cx="119.1776"
+       cy="771.07721"
        rx="80"
        ry="84.285713"
        inkscape:export-xdpi="21.15"
@@ -107,5 +107,14 @@
        inkscape:export-filename="C:\Users\dave\Code\sample-projects\1-webpack\src\grid.png"
        inkscape:export-xdpi="21.15"
        inkscape:export-ydpi="21.15" />
+    <ellipse
+       inkscape:export-ydpi="21.15"
+       inkscape:export-xdpi="21.15"
+       ry="84.285713"
+       rx="80"
+       cy="771.07721"
+       cx="395.95938"
+       id="ellipse4140"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#33f656;stroke-width:40;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

@@ -27,7 +27,7 @@ let game = new Phaser.Game('100%', '100%', Phaser.AUTO, null, {
 			let x = Math.floor(pointer.x / 70);
 			let y = Math.floor(pointer.y / 70);
 
-			if (x < 3 && y < 3 && !placed[x][y]) {
+			if (x < 3 && y < 3) {
 				placed[x][y] = next;
 
 				game.add.sprite(x * 70, y * 70, next);

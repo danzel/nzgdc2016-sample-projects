@@ -8,6 +8,8 @@
 	"files": [
 		"requirecompat.d.ts",
 		"node_modules/phaser/typescript/phaser.comments.d.ts",
-		"src/app.ts"
+		"src/app.ts",
+		"test/sanitySpec.ts",
+		"test/simulationSpec.ts"
 	]
 }

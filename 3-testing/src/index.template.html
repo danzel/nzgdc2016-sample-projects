@@ -1,0 +1,16 @@
+<html>
+	<head>
+        <title>My game</title>
+        <% for (var css in htmlWebpackPlugin.files.css) { %>
+		<link href="<%= htmlWebpackPlugin.files.css[css] %>" rel="stylesheet">
+		<% } %>
+    </head>
+	<body>
+		<script type="text/javascript" src="node_modules/phaser/build/custom/phaser-arcade-physics.js"></script>
+		<% for (var chunk in htmlWebpackPlugin.files.chunks) { %>
+		<script src="<%= htmlWebpackPlugin.files.chunks[chunk].entry %>" defer></script>
+		<% } %>
+
+        <div id="overlay">Something on the top</div>
+    </body>
+</html>

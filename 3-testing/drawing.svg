@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1449.2807"
+     inkscape:cy="311.46589"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1988"
+     inkscape:window-height="1167"
+     inkscape:window-x="2276"
+     inkscape:window-y="160"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#df6969;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 342.85714,286.64792 188.57143,455.21935"
+       id="path4140"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-ydpi="21.15"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\cross.png" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#33f656;stroke-width:40;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4142"
+       cx="400"
+       cy="785.21936"
+       rx="80"
+       ry="84.285713"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-ydpi="21.15"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\circle.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#99f1e2;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 919.2082,39.284591 0,1566.210509"
+       id="path4146"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\grid5.png"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-ydpi="21.15"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4148"
+       d="m 1236.3961,39.284591 0,1566.210509"
+       style="fill:none;fill-rule:evenodd;stroke:#99f1e2;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\grid5.png"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-ydpi="21.15"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4150"
+       d="m 2155.8719,326.40495 -1523.78405,0"
+       style="fill:none;fill-rule:evenodd;stroke:#99f1e2;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\grid5.png"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-ydpi="21.15"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#99f1e2;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2155.8719,643.59285 -1523.78405,0"
+       id="path4152"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\grid5.png"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-ydpi="21.15"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="21.15"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\grid5.png"
+       style="fill:none;fill-rule:evenodd;stroke:#99f1e2;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1555.6043,39.284591 0,1566.210509"
+       id="path4143"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4147"
+       d="m 1876.8328,39.284591 0,1566.210509"
+       style="fill:none;fill-rule:evenodd;stroke:#99f1e2;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\grid5.png"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-ydpi="21.15"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="21.15"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\grid5.png"
+       inkscape:connector-curvature="0"
+       id="path4151"
+       d="m 2155.8719,962.80105 -1523.78405,0"
+       style="fill:none;fill-rule:evenodd;stroke:#99f1e2;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#99f1e2;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2155.8719,1282.0093 -1523.78405,0"
+       id="path4155"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\grid5.png"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-ydpi="21.15"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="21.15"
+       inkscape:export-xdpi="21.15"
+       inkscape:connector-curvature="0"
+       id="path4157"
+       d="M 188.57143,286.64792 342.85714,455.21935"
+       style="fill:none;fill-rule:evenodd;stroke:#df6969;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\cross.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2a40c3;stroke-width:47.64496994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 414.93472,66.234844 -77.55697,128.630456 155.11395,0 z"
+       id="path4159"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\dave\Code\sample-projects\3-testing\src\triangle.png"
+       inkscape:export-xdpi="21.15"
+       inkscape:export-ydpi="21.15" />
+  </g>
+</svg>

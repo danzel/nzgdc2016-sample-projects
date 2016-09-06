@@ -1,5 +1,5 @@
 import test from 'ava';
 
-test("ChatRepository can post and get a message", (t) => {
+test("Checking that test environment is sane", (t) => {
 	t.true(true);
 });

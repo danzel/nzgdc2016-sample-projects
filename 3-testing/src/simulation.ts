@@ -8,6 +8,9 @@ class Simulation {
 	constructor() {
 	}
 
+	/** Tries to place the next piece at the given location.
+	 * Returns Pieces.None if it fails, otherwise the type of piece that was placed
+	 */
 	tryPlayAt(x: number, y: number): Pieces {
 		if (x < 3 && y < 3 && !this.grid.pieceInPosition(x, y)) {
 			this.grid.placePieces(x, y, this.next);
@@ -20,6 +23,30 @@ class Simulation {
 		}
 
 		return Pieces.None;
+	}
+
+	toString(): string {
+		let res = '';
+		for (let y = 0; y < this.grid.width; y++) {
+			res += '|'
+			for (let x = 0; x < this.grid.height; x++) {
+				switch (this.grid.getPiece(x, y)) {
+					case Pieces.Circle:
+						res += 'O';
+						break;
+					case Pieces.Cross:
+						res += 'X';
+						break;
+					case Pieces.None:
+						res += ' ';
+						break;
+					default:
+						throw new Error('wat');
+				}
+			}
+			res += '|\n';
+		}
+		return res;
 	}
 }
 

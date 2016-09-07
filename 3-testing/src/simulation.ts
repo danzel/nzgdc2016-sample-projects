@@ -27,9 +27,9 @@ class Simulation {
 
 	toString(): string {
 		let res = '';
-		for (let y = 0; y < this.grid.width; y++) {
+		for (let y = 0; y < 3; y++) {
 			res += '|'
-			for (let x = 0; x < this.grid.height; x++) {
+			for (let x = 0; x < 3; x++) {
 				switch (this.grid.getPiece(x, y)) {
 					case Pieces.Circle:
 						res += 'O';
